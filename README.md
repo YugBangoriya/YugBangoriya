@@ -57,11 +57,11 @@ I don't stay in one lane. Whether it's analysing data, designing a product workf
 
 ### [🔗 URL Manager](https://github.com/YugBangoriya/URL-Manager)
 
-Personal productivity tool contained in a single HTML file. Organises bookmarks, folders, and sheets with no backend, no framework, and no running cost. Runs on GitHub Pages. Work in progress.
+Personal link manager built to replace scattered bookmarks, Notion pages, and saved posts, organised as sheets, folders, and links. It began as a zero-dependency single HTML file and evolved into a cross-device web app with Supabase authentication, a PostgreSQL database, and row-level security that separates a private admin workspace from a read-only public viewer mode. Deployed on Vercel at zero cost.
 
-`HTML` `CSS` `GitHub Pages`
+`JavaScript` `Supabase` `PostgreSQL` `Vite` `Vercel`
 
-[![Repository](https://img.shields.io/badge/Repository-b7410e?style=flat-square&logo=github&logoColor=white)](https://github.com/YugBangoriya/URL-Manager)
+[![Live App](https://img.shields.io/badge/Live_App-b7410e?style=flat-square&logo=vercel&logoColor=white)](https://url-manager-yugbangoriya.vercel.app) [![Repository](https://img.shields.io/badge/Repository-b7410e?style=flat-square&logo=github&logoColor=white)](https://github.com/YugBangoriya/URL-Manager)
 
 </td>
 </tr>
